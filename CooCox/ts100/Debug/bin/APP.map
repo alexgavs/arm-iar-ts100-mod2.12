@@ -1,0 +1,1121 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+                              ..\obj\Disk.o (memcmp)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcpy.o)
+                              ..\obj\Disk.o (memcpy)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+                              ..\obj\Disk.o (sprintf)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+                              ..\obj\Disk.o (strcat)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o) (strcpy)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+                              ..\obj\Disk.o (strlen)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (memchr)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o) (_free_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o) (__global_locale)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o) (errno)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o) (strcmp)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o) (__ascii_wctomb)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o) (_ctype_)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+SaveRState          0x2               ..\obj\usb_int.o
+flash_mode          0x1               ..\obj\Ext_Flash.o
+__lock___atexit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+CBW                 0x20              ..\obj\USB_bot.o
+__lock___arc4random_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+pid                 0x18              ..\obj\CTRL.o
+SaveState           0x2               ..\obj\usb_init.o
+errno               0x4               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+gTemp_array_u16     0x1a0             ..\obj\UI.o
+wIstr               0x2               ..\obj\USB_istr.o
+pProperty           0x4               ..\obj\usb_init.o
+gKey_in             0x4               ..\obj\HARDWARE.o
+__lock___env_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+gTemp_array         0x110             ..\obj\UI.o
+__lock___sinit_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+EPindex             0x1               ..\obj\usb_init.o
+Data_Len            0x2               ..\obj\USB_bot.o
+__lock___malloc_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+Bot_State           0x1               ..\obj\USB_bot.o
+SCSI_LBA            0x4               ..\obj\USB_bot.o
+SaveTState          0x2               ..\obj\usb_int.o
+Device_Info         0x1c              ..\obj\usb_init.o
+gTime               0x20              ..\obj\Bios.o
+pUser_Standard_Requests
+                    0x4               ..\obj\usb_init.o
+gMs_timeout         0x4               ..\obj\Bios.o
+Mass_Memory_Size    0x4               ..\obj\Ext_Flash.o
+gMmatxdata          0x1               ..\obj\MMA8652FC.o
+CSW                 0x10              ..\obj\USB_bot.o
+SCSI_BlkLen         0x4               ..\obj\USB_bot.o
+Bulk_Buff           0x40              ..\obj\USB_bot.o
+gTimeOut            0x4               ..\obj\Bios.o
+StatusInfo          0x2               ..\obj\usb_core.o
+pInformation        0x4               ..\obj\usb_init.o
+ResumeS             0x2               ..\obj\USB_pwr.o
+Mass_Block_Size     0x4               ..\obj\Ext_Flash.o
+ADC1ConvertedValue  0x4               ..\obj\Bios.o
+gY_value            0x2               ..\obj\MMA8652FC.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+Tout                0x4               ..\obj\Ext_Flash.o
+gX_value            0x2               ..\obj\MMA8652FC.o
+Mass_Block_Count    0x4               ..\obj\Ext_Flash.o
+gRewriteflag        0x10              ..\obj\Disk.o
+__lock___dd_hash_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+device_info         0x20              ..\obj\CTRL.o
+gZ_value            0x2               ..\obj\MMA8652FC.o
+wInterrupt_Mask     0x2               ..\obj\usb_init.o
+__lock___sfp_recursive_mutex
+                    0x1               c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x00000000       0x6c ..\obj\usb_sil.o
+ .data          0x00000000        0x0 ..\obj\usb_sil.o
+ .bss           0x00000000        0x0 ..\obj\usb_sil.o
+ .comment       0x00000000       0x80 ..\obj\usb_sil.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_sil.o
+ .text          0x00000000      0x39c ..\obj\stm32f10x_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_i2c.o
+ .text          0x00000000      0x4b8 ..\obj\CTRL.o
+ .data          0x00000000        0x7 ..\obj\CTRL.o
+ .bss           0x00000000        0x7 ..\obj\CTRL.o
+ .rodata        0x00000000       0x20 ..\obj\CTRL.o
+ .comment       0x00000000       0x80 ..\obj\CTRL.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\CTRL.o
+ COMMON         0x00000000       0x38 ..\obj\CTRL.o
+ .text          0x00000000        0x0 ..\obj\Main.o
+ .data          0x00000000        0x0 ..\obj\Main.o
+ .bss           0x00000000        0x0 ..\obj\Main.o
+ .text.startup  0x00000000       0x9c ..\obj\Main.o
+ .comment       0x00000000       0x80 ..\obj\Main.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Main.o
+ .text          0x00000000      0x360 ..\obj\stm32f10x_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_adc.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_adc.o
+ .text          0x00000000      0x260 ..\obj\I2C.o
+ .data          0x00000000        0x0 ..\obj\I2C.o
+ .bss           0x00000000        0x0 ..\obj\I2C.o
+ .comment       0x00000000       0x80 ..\obj\I2C.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\I2C.o
+ .text          0x00000000       0x1e ..\obj\Interrupt.o
+ .data          0x00000000        0x0 ..\obj\Interrupt.o
+ .bss           0x00000000        0x0 ..\obj\Interrupt.o
+ .comment       0x00000000       0x80 ..\obj\Interrupt.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Interrupt.o
+ .text          0x00000000      0x1bc ..\obj\MMA8652FC.o
+ .data          0x00000000        0x0 ..\obj\MMA8652FC.o
+ .bss           0x00000000        0x8 ..\obj\MMA8652FC.o
+ .comment       0x00000000       0x80 ..\obj\MMA8652FC.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\MMA8652FC.o
+ COMMON         0x00000000        0x7 ..\obj\MMA8652FC.o
+ .text          0x00000000      0x1f8 ..\obj\usb_int.o
+ .data          0x00000000        0x0 ..\obj\usb_int.o
+ .bss           0x00000000        0x0 ..\obj\usb_int.o
+ .comment       0x00000000       0x80 ..\obj\usb_int.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_int.o
+ COMMON         0x00000000        0x4 ..\obj\usb_int.o
+ .text          0x00000000       0x98 ..\obj\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_wwdg.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_wwdg.o
+ .text          0x00000000      0x444 ..\obj\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_fsmc.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_fsmc.o
+ .text          0x00000000      0x160 ..\obj\stm32f10x_dac.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dac.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dac.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dac.o
+ .text          0x00000000       0x58 ..\obj\stm32f10x_iwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_iwdg.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_iwdg.o
+ .text          0x00000000       0x48 ..\obj\usb_mem.o
+ .data          0x00000000        0x0 ..\obj\usb_mem.o
+ .bss           0x00000000        0x0 ..\obj\usb_mem.o
+ .comment       0x00000000       0x80 ..\obj\usb_mem.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_mem.o
+ .text          0x00000000      0x2a8 ..\obj\USB_prop.o
+ .data          0x00000000       0x8e ..\obj\USB_prop.o
+ .bss           0x00000000        0x4 ..\obj\USB_prop.o
+ .comment       0x00000000       0x80 ..\obj\USB_prop.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_prop.o
+ .text          0x00000000      0x288 ..\obj\stm32f10x_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_gpio.o
+ .text          0x00000000       0xb4 ..\obj\misc.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .comment       0x00000000       0x80 ..\obj\misc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\misc.o
+ .text          0x00000000      0x71c ..\obj\stm32f10x_can.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_can.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_can.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_can.o
+ .text          0x00000000      0x350 ..\obj\Oled.o
+ .data          0x00000000       0x2e ..\obj\Oled.o
+ .bss           0x00000000        0x0 ..\obj\Oled.o
+ .rodata        0x00000000      0x314 ..\obj\Oled.o
+ .rodata.str1.1
+                0x00000000        0xc ..\obj\Oled.o
+ .comment       0x00000000       0x80 ..\obj\Oled.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Oled.o
+ .text          0x00000000      0x1b4 ..\obj\stm32f10x_dma.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dma.o
+ .text          0x00000000      0x38c ..\obj\HARDWARE.o
+ .data          0x00000000       0x14 ..\obj\HARDWARE.o
+ .bss           0x00000000       0x34 ..\obj\HARDWARE.o
+ .rodata        0x00000000       0x18 ..\obj\HARDWARE.o
+ .comment       0x00000000       0x80 ..\obj\HARDWARE.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\HARDWARE.o
+ COMMON         0x00000000        0x4 ..\obj\HARDWARE.o
+ .text          0x00000000      0x110 ..\obj\stm32f10x_cec.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_cec.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_cec.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_cec.o
+ .text          0x00000000      0xe84 ..\obj\Disk.o
+ .data          0x00000000       0x60 ..\obj\Disk.o
+ .bss           0x00000000     0x2a54 ..\obj\Disk.o
+ .rodata        0x00000000      0x2c6 ..\obj\Disk.o
+ .rodata.str1.1
+                0x00000000      0x1b0 ..\obj\Disk.o
+ .comment       0x00000000       0x80 ..\obj\Disk.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Disk.o
+ COMMON         0x00000000       0x10 ..\obj\Disk.o
+ .text          0x00000000       0x58 ..\obj\stm32f10x_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_crc.o
+ .text          0x00000000       0xf4 ..\obj\stm32f10x_exti.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_exti.o
+ .text          0x00000000      0x4c8 ..\obj\Bios.o
+ .data          0x00000000        0x0 ..\obj\Bios.o
+ .bss           0x00000000        0x6 ..\obj\Bios.o
+ .comment       0x00000000       0x80 ..\obj\Bios.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Bios.o
+ COMMON         0x00000000       0x2c ..\obj\Bios.o
+ .text          0x00000000       0x54 ..\obj\Flash.o
+ .data          0x00000000        0x0 ..\obj\Flash.o
+ .bss           0x00000000        0x0 ..\obj\Flash.o
+ .comment       0x00000000       0x80 ..\obj\Flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Flash.o
+ .text          0x00000000      0x320 ..\obj\USB_bot.o
+ .data          0x00000000        0x0 ..\obj\USB_bot.o
+ .bss           0x00000000        0x0 ..\obj\USB_bot.o
+ .comment       0x00000000       0x80 ..\obj\USB_bot.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_bot.o
+ COMMON         0x00000000       0x7c ..\obj\USB_bot.o
+ .text          0x00000000      0x81c ..\obj\usb_core.o
+ .data          0x00000000        0x0 ..\obj\usb_core.o
+ .bss           0x00000000        0x1 ..\obj\usb_core.o
+ .comment       0x00000000       0x80 ..\obj\usb_core.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_core.o
+ COMMON         0x00000000        0x2 ..\obj\usb_core.o
+ .text          0x00000000      0x214 ..\obj\stm32f10x_sdio.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_sdio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_sdio.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_sdio.o
+ .text          0x00000000      0x3a0 ..\obj\stm32f10x_usart.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_usart.o
+ .text          0x00000000        0x0 ..\obj\USB_desc.o
+ .data          0x00000000       0x1a ..\obj\USB_desc.o
+ .bss           0x00000000        0x0 ..\obj\USB_desc.o
+ .rodata        0x00000000       0x92 ..\obj\USB_desc.o
+ .comment       0x00000000       0x80 ..\obj\USB_desc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_desc.o
+ .text          0x00000000       0xe0 ..\obj\stm32f10x_bkp.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_bkp.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_bkp.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_bkp.o
+ .text          0x00000000      0x340 ..\obj\stm32f10x_rcc.o
+ .data          0x00000000       0x14 ..\obj\stm32f10x_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_rcc.o
+ .text          0x00000000       0x34 ..\obj\usb_init.o
+ .data          0x00000000        0x0 ..\obj\usb_init.o
+ .bss           0x00000000        0x0 ..\obj\usb_init.o
+ .comment       0x00000000       0x80 ..\obj\usb_init.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_init.o
+ COMMON         0x00000000       0x32 ..\obj\usb_init.o
+ .text          0x00000000       0x34 ..\obj\stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dbgmcu.o
+ .text          0x00000000       0x50 ..\obj\USB_istr.o
+ .data          0x00000000       0x38 ..\obj\USB_istr.o
+ .bss           0x00000000        0x1 ..\obj\USB_istr.o
+ .comment       0x00000000       0x80 ..\obj\USB_istr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_istr.o
+ COMMON         0x00000000        0x2 ..\obj\USB_istr.o
+ .text          0x00000000      0x6b4 ..\obj\usb_regs.o
+ .data          0x00000000        0x0 ..\obj\usb_regs.o
+ .bss           0x00000000        0x0 ..\obj\usb_regs.o
+ .comment       0x00000000       0x80 ..\obj\usb_regs.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\usb_regs.o
+ .text          0x00000000      0x14c ..\obj\stm32f10x_rtc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_rtc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rtc.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_rtc.o
+ .text          0x00000000      0x298 ..\obj\USB_scsi.o
+ .data          0x00000000       0x2a ..\obj\USB_scsi.o
+ .bss           0x00000000        0xd ..\obj\USB_scsi.o
+ .rodata        0x00000000       0x24 ..\obj\USB_scsi.o
+ .comment       0x00000000       0x80 ..\obj\USB_scsi.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_scsi.o
+ .text          0x00000000       0xf8 ..\obj\USB_pwr.o
+ .data          0x00000000        0x1 ..\obj\USB_pwr.o
+ .bss           0x00000000        0x4 ..\obj\USB_pwr.o
+ .comment       0x00000000       0x80 ..\obj\USB_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\USB_pwr.o
+ COMMON         0x00000000        0x2 ..\obj\USB_pwr.o
+ .text          0x00000000      0x4dc ..\obj\stm32f10x_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_flash.o
+ .text          0x00000000     0x1260 ..\obj\UI.o
+ .data          0x00000000       0xda ..\obj\UI.o
+ .bss           0x00000000       0x45 ..\obj\UI.o
+ .rodata        0x00000000     0x1658 ..\obj\UI.o
+ .rodata.str1.1
+                0x00000000        0x5 ..\obj\UI.o
+ .comment       0x00000000       0x80 ..\obj\UI.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\UI.o
+ COMMON         0x00000000      0x2b0 ..\obj\UI.o
+ .text          0x00000000       0xd0 ..\obj\stm32f10x_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_pwr.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_pwr.o
+ .text          0x00000000      0x2d8 ..\obj\Ext_Flash.o
+ .data          0x00000000        0x0 ..\obj\Ext_Flash.o
+ .bss           0x00000000        0x0 ..\obj\Ext_Flash.o
+ .comment       0x00000000       0x80 ..\obj\Ext_Flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\Ext_Flash.o
+ COMMON         0x00000000       0x14 ..\obj\Ext_Flash.o
+ .text          0x00000000      0xc78 ..\obj\stm32f10x_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_tim.o
+ .text          0x00000000      0x2bc ..\obj\stm32f10x_spi.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .comment       0x00000000       0x80 ..\obj\stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_spi.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcmp.o)
+ .text          0x00000000       0xec c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x44 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .text.sprintf  0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000000       0x84 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .text.strcat   0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcat.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .text.strcpy   0x00000000       0xbc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .text.strlen   0x00000000       0x5c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .text._svfprintf_r
+                0x00000000     0x14f8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .rodata._svfprintf_r.str1.4
+                0x00000000       0x42 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .rodata.blanks.7228
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .rodata.zeroes.7229
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .text.quorem   0x00000000      0x128 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .text._dtoa_r  0x00000000      0xe44 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .rodata._dtoa_r.str1.4
+                0x00000000       0x12 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000000       0x84 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .text._localeconv_r
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .debug_frame   0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-localeconv.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x544 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000       0x54 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .text.memchr   0x00000000       0x8c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text._Balloc  0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text._Bfree   0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__multadd
+                0x00000000       0x84 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x9c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__hi0bits
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__lo0bits
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__i2b    0x00000000       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__multiply
+                0x00000000      0x124 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__pow5mult
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__lshift
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__mcmp   0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__mdiff  0x00000000      0x11c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x44 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xd4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__d2b    0x00000000       0xa8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x38 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x5c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_bigtens
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tens
+                0x00000000       0xc8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .rodata.p05.6060
+                0x00000000        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000000      0x260 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xa5c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .rodata._svfiprintf_r.str1.4
+                0x00000000       0x2f c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.7208
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7209
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000000       0x78 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .text._calloc_r
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xa0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .text._free_r  0x00000000      0x1cc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr_l
+                0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text.__locale_ctype_ptr
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .data.__global_locale
+                0x00000000      0x16c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .rodata._setlocale_r.str1.4
+                0x00000000        0xd c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .rodata.str1.4
+                0x00000000        0x2 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .debug_frame   0x00000000       0x6c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .text.__ascii_mbtowc
+                0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000000       0x4c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-mbtowc_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .text.memmove  0x00000000       0xc8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x00000000      0x36c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000000       0x68 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x58 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ COMMON         0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-reent.o)
+ .text          0x00000000      0x1bc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .text.__ascii_wctomb
+                0x00000000       0x18 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00000000       0x3c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-wctomb_r.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x00000000      0x101 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-ctype_.o)
+ .text          0x00000000      0x370 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_unorddf2.o)
+ .text          0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000       0x30 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2dc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08004000         0x00010000         xr
+ram              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x20005000                _eram = 0x20005000
+
+.text           0x08004000      0x1a8
+ *(.isr_vector)
+ *(.text*)
+ .text          0x08004000       0x6c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text.startup.register_fini
+                0x0800406c       0x14 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08004080        0xc c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                0x08004080                atexit
+ .text.__libc_fini_array
+                0x0800408c       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                0x0800408c                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x080040c0        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x080040c0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x080040c4        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x080040c4                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x080040c8       0xc4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                0x080040c8                __register_exitproc
+ *(.init)
+ .init          0x0800418c        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x0800418c                _init
+ .init          0x08004190        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x08004198        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x08004198                _fini
+ .fini          0x0800419c        0x8 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x080041a4        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                0x080041a4                _global_impure_ptr
+ *(.eh_fram e*)
+
+.eh_frame       0x080041a8        0x0
+ .eh_frame      0x080041a8        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.glue_7         0x080041a8        0x0
+ .glue_7        0x080041a8        0x0 linker stubs
+
+.glue_7t        0x080041a8        0x0
+ .glue_7t       0x080041a8        0x0 linker stubs
+
+.vfp11_veneer   0x080041a8        0x0
+ .vfp11_veneer  0x080041a8        0x0 linker stubs
+
+.v4_bx          0x080041a8        0x0
+ .v4_bx         0x080041a8        0x0 linker stubs
+
+.iplt           0x080041a8        0x0
+ .iplt          0x080041a8        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.rel.dyn        0x080041a8        0x0
+ .rel.iplt      0x080041a8        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080041a8                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x080041a8                __exidx_end = .
+                0x080041a8                __etext = .
+                0x080041a8                _sidata = __etext
+
+.data           0x20000000      0x43c load address 0x080041a8
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x20000000      0x428 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000428        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                0x20000428                __atexit_recursive_mutex
+                0x2000042c                . = ALIGN (0x4)
+                0x2000042c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x2000042c                PROVIDE (__preinit_array_end, .)
+                0x2000042c                . = ALIGN (0x4)
+                0x2000042c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x2000042c        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x20000430        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x20000434                PROVIDE (__init_array_end, .)
+                0x20000434                . = ALIGN (0x4)
+                0x20000434                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000434        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x20000438                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x20000438        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .jcr           0x20000438        0x4 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                __data_end__ = .
+                0x2000043c                _edata = __data_end__
+
+.igot.plt       0x2000043c        0x0 load address 0x080045e4
+ .igot.plt      0x2000043c        0x0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.bss            0x2000043c       0x40 load address 0x080045e4
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                __bss_start__ = .
+                0x2000043c                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x2000043c       0x1c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(COMMON)
+ COMMON         0x20000458       0x21 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x20000458                __lock___atexit_recursive_mutex
+                0x2000045c                __lock___arc4random_mutex
+                0x20000460                __lock___env_recursive_mutex
+                0x20000464                __lock___sinit_recursive_mutex
+                0x20000468                __lock___malloc_recursive_mutex
+                0x2000046c                __lock___at_quick_exit_mutex
+                0x20000470                __lock___dd_hash_mutex
+                0x20000474                __lock___tz_mutex
+                0x20000478                __lock___sfp_recursive_mutex
+                0x2000047c                . = ALIGN (0x4)
+ *fill*         0x20000479        0x3 
+                0x2000047c                __bss_end__ = .
+                0x2000047c                _ebss = __bss_end__
+
+.heap           0x2000047c        0x0
+                0x2000047c                __end__ = .
+                0x2000047c                _end = __end__
+                0x2000047c                end = __end__
+ *(.heap*)
+                0x2000047c                __HeapLimit = .
+
+.co_stack       0x2000047c        0x4 load address 0x08004624
+                0x20000480                . = ALIGN (0x8)
+ *fill*         0x2000047c        0x4 
+ *(.co_stack .co_stack.*)
+                0x20005000                __StackTop = (ORIGIN (ram) + LENGTH (ram))
+                0x20004ffc                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                0x20005000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\usb_sil.o
+LOAD ..\obj\stm32f10x_i2c.o
+LOAD ..\obj\CTRL.o
+LOAD ..\obj\Main.o
+LOAD ..\obj\stm32f10x_adc.o
+LOAD ..\obj\I2C.o
+LOAD ..\obj\Interrupt.o
+LOAD ..\obj\MMA8652FC.o
+LOAD ..\obj\usb_int.o
+LOAD ..\obj\stm32f10x_wwdg.o
+LOAD ..\obj\stm32f10x_fsmc.o
+LOAD ..\obj\stm32f10x_dac.o
+LOAD ..\obj\stm32f10x_iwdg.o
+LOAD ..\obj\usb_mem.o
+LOAD ..\obj\USB_prop.o
+LOAD ..\obj\stm32f10x_gpio.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\stm32f10x_can.o
+LOAD ..\obj\Oled.o
+LOAD ..\obj\stm32f10x_dma.o
+LOAD ..\obj\HARDWARE.o
+LOAD ..\obj\stm32f10x_cec.o
+LOAD ..\obj\Disk.o
+LOAD ..\obj\stm32f10x_crc.o
+LOAD ..\obj\stm32f10x_exti.o
+LOAD ..\obj\Bios.o
+LOAD ..\obj\Flash.o
+LOAD ..\obj\USB_bot.o
+LOAD ..\obj\usb_core.o
+LOAD ..\obj\stm32f10x_sdio.o
+LOAD ..\obj\stm32f10x_usart.o
+LOAD ..\obj\USB_desc.o
+LOAD ..\obj\stm32f10x_bkp.o
+LOAD ..\obj\stm32f10x_rcc.o
+LOAD ..\obj\usb_init.o
+LOAD ..\obj\stm32f10x_dbgmcu.o
+LOAD ..\obj\USB_istr.o
+LOAD ..\obj\usb_regs.o
+LOAD ..\obj\stm32f10x_rtc.o
+LOAD ..\obj\USB_scsi.o
+LOAD ..\obj\USB_pwr.o
+LOAD ..\obj\stm32f10x_flash.o
+LOAD ..\obj\UI.o
+LOAD ..\obj\stm32f10x_pwr.o
+LOAD ..\obj\Ext_Flash.o
+LOAD ..\obj\stm32f10x_tim.o
+LOAD ..\obj\stm32f10x_spi.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+OUTPUT(APP.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000077       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000a4       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000000d1       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000000fe       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000012b       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000158       0x2d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000185       0x1d c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+
+.debug_frame    0x00000000      0x194
+ .debug_frame   0x00000000       0x5c c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000005c       0x20 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000007c       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x000000b0       0xb0 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000160       0x34 c:/program files (x86)/gnu tools arm embedded/6 2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)

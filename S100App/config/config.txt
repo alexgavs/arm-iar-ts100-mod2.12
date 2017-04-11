@@ -1,0 +1,8 @@
+T_Standby=200 		#(100~400)
+T_Work=300		#(100~400)
+Wait_Time=180		#(60~9999)
+Idle_Time=360		#(300~9999)
+T_Step=10		#(5~25)
+Turn_Off_v=10		#(9~12)
+TempShowFlag=0		#(0,1)
+ZeroP_Ad=239		#ReadOnly
