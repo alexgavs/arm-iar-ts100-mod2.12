@@ -24,6 +24,7 @@ typedef enum VOL_CLASS {
     L_ALARM,
 } VOL_CLASS;
 
+extern u8 gLeftHanded;
 extern s32 gZerop_ad;
 extern u8 gCalib_flag;
 extern u32 gTurn_offv;

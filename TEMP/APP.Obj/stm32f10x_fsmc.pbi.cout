@@ -34,7 +34,6 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -DTYPE_S100=0
 -DOLED_VGM096016A3W07=0
 -DVIRTUAL_DISK=0
--DLEFTHAND=0
 -D__CODE_MEMORY_LIST1__()=__CODE_MEM_HELPER1__(__code, 0 )
 -D__CODE_MEMORY_LIST2__(_P1)=__CODE_MEM_HELPER2__(__code, 0 ,  _P1 )
 -D__CODE_MEMORY_LIST3__(_P1, _P2)=__CODE_MEM_HELPER3__(__code, 0 ,  _P1 ,  _P2 )
@@ -260,7 +259,7 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -D__HAS_LOCATED_WITH_INIT__=1
 -D__IAR_COMPILERBASE__=592900
 -D__DATE__="Apr 13 2017"
--D__TIME__="03:34:26"
+-D__TIME__="08:49:45"
 -D__STDC__=1
 -D__STDC_VERSION__=199901L
 -D__STDC_HOSTED__=1
@@ -291,7 +290,6 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\CMSIS\Include
 -DTYPE_S100=1
 -DOLED_VGM096016A3W07=1
 -DVIRTUAL_DISK=1
--DLEFTHAND=1
 -D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.4\arm\INC\c\DLib_Config_Normal.h"
 -D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 6.4\\arm\\INC\\c\\DLib_Config_Normal.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V6.40.2.53884/W32 for ARM"

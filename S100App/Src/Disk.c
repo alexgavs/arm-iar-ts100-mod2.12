@@ -97,14 +97,14 @@ static u8  *gVar  = (u8*) &gDisk_var[512/4 + 8];
 static u8  *gBuff = (u8*) &gDisk_var[0];
 const u8   gFat_data[]= {0xF8,0xFF,0xFF,0xFF,0xFF,0xFF};//{0xF8,0XFF,0XFF,0xff,0X0f};//
 
-const char *gKey_words[] = {"T_Standby","T_Work","Wait_Time","Idle_Time","T_Step","Turn_Off_v","TempShowFlag","ZeroP_Ad"};
+const char *gKey_words[] = {"T_Standby","T_Work","Wait_Time","Idle_Time","T_Step","Turn_Off_v","TempShowFlag","ZeroP_Ad","LeftHanded"};
 const char *gDef_set[]   = {"T_Standby=200","T_Work=300","Wait_Time=180", "Idle_Time=360","T_Step=10","Turn_Off_v=10",
-                            "TempShowFlag=0","ZeroP_Ad=239"};
+                            "TempShowFlag=0","ZeroP_Ad=239", "LeftHanded=0"};
 const char *gSet_range[] = {"   #(100~400)\r\n","      #(100~400)\r\n","   #(60~9999)\r\n","   #(300~9999)\r\n",
-                           "       #(5~25)\r\n","   #(9~12)\r\n","  #(0,1)\r\n","    #ReadOnly\r\n"};
+                           "       #(5~25)\r\n","   #(9~12)\r\n","  #(0,1)\r\n","    #ReadOnly\r\n","    #(0,1)\r\n"};
 
 static u8 gFile_con[512];
-#define CONFIG_CONT 8
+#define CONFIG_CONT 9
 u8 gRewriteflag[16];
 
 #define ROW_CONT 35
@@ -193,6 +193,12 @@ void Set_Ver(u8  str[],u8 k)
         if(!gCalib_flag)  gZerop_ad = set_ver;
         
         break;
+        
+    case 8:
+      set_ver = str[0] - 48;
+      Set_LeftHandedFlag(set_ver);
+       break;      
+    
     default:
         break;
     }
@@ -277,7 +283,12 @@ u8 Cal_Val(u8  str[],u8 k,u8 flag)
             if(set_ver != gZerop_ad) return 0;
         }
         break;
-    default:
+    case 8: // LefHanded =0 #(0,1)
+        if(str[0] != '1' && str[0] != '0')
+          return 0;
+        break;
+        
+   default:
         break;
     }
     return 1;
@@ -421,6 +432,7 @@ u8 Config_Analysis(void)
                     else if (k == 5)  sprintf((char *)t_p[k],"Turn_Off_v=%d",gTurn_offv/10);
                     else if (k == 6)  sprintf((char *)t_p[k],"TempShowFlag=%d",Get_TemperatureShowFlag());
                     else if (k == 7)  sprintf((char *)t_p[k],"ZeroP_Ad=%d",gZerop_ad);
+                    else if (k == 8)  sprintf((char *)t_p[k],"LeftHanded=%d",Get_LeftHandedFlag());
                 } else {//设置值不合法
                     memset(t_p[k],0,strlen((char *)t_p[k]));
                     memcpy(t_p[k],gDef_set[k],strlen((char *)gDef_set[k]));
@@ -597,6 +609,7 @@ void Disk_SecWrite(u8* pbuffer, u32 diskaddr)//PC 保存数据调用
                         else if (k == 5)  sprintf((char *)t_p[k],"Turn_Off_v=%d",gTurn_offv/10);
                         else if (k == 6)  sprintf((char *)t_p[k],"TempShowFlag=%d",Get_TemperatureShowFlag());
                         else if (k == 7)  sprintf((char *)t_p[k],"ZeroP_Ad=%d",gZerop_ad);
+                        else if (k == 8)  sprintf((char *)t_p[k],"LeftHanded=%d",Get_LeftHandedFlag());
                     }
                 } else {//木有找到关键字
                     memcpy(t_p[k],gDef_set[k],strlen((char *)gDef_set[k]));

@@ -23,7 +23,7 @@ const u16 gRate[] = {300,150,90,40};
 s32 gZerop_ad = 239;
 u32 gTurn_offv = 100;
 u8 gCalib_flag = 0;
-vu16 gMeas_cnt= 0;/* Measure*/
+u16 gMeas_cnt= 0;/* Measure*/
 u32 gKey_in;
 u8 gLongkey_flag = 0;
 u8 gAlarm_type = 1;

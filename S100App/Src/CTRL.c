@@ -368,6 +368,7 @@ void Status_Tran(void)//状态转换
         switch(Get_gKey()) {
         case KEY_CN|KEY_V1:
         case KEY_CN|KEY_V2:
+/*
           /// put from 2.11
                     if(G6_TIMER == 0) {
                 Set_CtrlStatus(THERMOMETER);
@@ -387,6 +388,7 @@ void Status_Tran(void)//状态转换
         switch(Get_gKey()) {
         case KEY_CN|KEY_V1:
         case KEY_CN|KEY_V2:
+ */
           
           // end from 2.11
             back_prestatus = 1;
@@ -406,7 +408,8 @@ void Status_Tran(void)//状态转换
             back_prestatus = 0;
             Set_HeatingTime(0);
             //from 2.11
-                       if(Read_Vb(1) >= 4){
+
+            if(Read_Vb(1) >= 4){
                 Set_CtrlStatus(CONFIG);
             }else {
                 Set_CtrlStatus(IDLE);

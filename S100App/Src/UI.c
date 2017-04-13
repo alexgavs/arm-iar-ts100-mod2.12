@@ -22,6 +22,7 @@ History:
 /******************************************************************************/
 u8 gTemp_array[16*16 + 16];
 u8 gTemperatureshowflag = 0;     /* 0 is in degrees Celsius, 1 is Fahrenheit */
+u8 gLeftHandedflag = 0;
 u8 gUp_flag = 0,gDown_flag = 0,gLevel_flag = 0,gTempset_showctrl = 0;
 u16 gTemp_array_u16[208];
 u16 gSet_table[2] = {4000,1000}; /* Temperature selection */
@@ -94,6 +95,21 @@ u8 Get_TemperatureShowFlag(void)
 {
     return gTemperatureshowflag;
 }
+
+/*******************************************************************************
+Get/Set_LeftHanded Flag
+Left Hand=1; 
+******************************************************************************/
+void Set_LeftHandedFlag(u8 flag)
+{
+  gLeftHandedflag = flag;
+}
+
+u8 Get_LeftHandedFlag(void)
+{
+ return gLeftHandedflag;
+}
+
 /*******************************************************************************
 函数名: TemperatureShow_Change
 函数作用:摄氏度华氏度相互转换

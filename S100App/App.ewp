@@ -170,7 +170,6 @@
           <state>TYPE_S100</state>
           <state>OLED_VGM096016A3W07</state>
           <state>VIRTUAL_DISK</state>
-          <state>LEFTHAND</state>
         </option>
         <option>
           <name>CCPreprocFile</name>
@@ -255,7 +254,7 @@
         </option>
         <option>
           <name>CCLangConformance</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>CCSignedPlainChar</name>
@@ -851,7 +850,7 @@
         </option>
         <option>
           <name>IlinkOptInline</name>
-          <state>0</state>
+          <state>1</state>
         </option>
         <option>
           <name>IlinkOptExceptionsAllow</name>
@@ -867,7 +866,7 @@
         </option>
         <option>
           <name>IlinkOptMergeDuplSections</name>
-          <state>0</state>
+          <state>1</state>
         </option>
         <option>
           <name>IlinkOptUseVfe</name>

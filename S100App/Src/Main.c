@@ -44,13 +44,13 @@ void main(void)
     if (Get_CtrlStatus() != CONFIG)  StartUp_Accelerated();
     
     System_Init();
-    Init_Oled();
-    Clear_Screen();
     Init_Gtime();
     APP_Init();
     
     Disk_BuffInit();
     Config_Analysis();         // еђЇеЉЁи™љж‹џUз›�
+    Init_Oled();
+    Clear_Screen();
     
     Pid_Init();
     Set_gKey(NO_KEY);
