@@ -170,6 +170,7 @@
           <state>TYPE_S100</state>
           <state>OLED_VGM096016A3W07</state>
           <state>VIRTUAL_DISK</state>
+          <state>LEFTHAND</state>
         </option>
         <option>
           <name>CCPreprocFile</name>
